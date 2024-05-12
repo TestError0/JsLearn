@@ -1,4 +1,33 @@
+/*
+ // Ternary Operator (condition operator er short cut)
+*/
 
+let a = 10;
+let b = 8;
+
+let t = a < b ? 'True' : 'False';
+
+console.log(t);
+
+
+
+
+
+/*
+   //Assignment Operator
+
+let j = 10;
+let k = 20;
+
+j = j +k;
+j += k;
+ 
+j = j - k;
+j -= k;
+
+console.log(j);
+
+*/
 
 
 
