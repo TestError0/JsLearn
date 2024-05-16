@@ -1,6 +1,6 @@
 /*
  // Ternary Operator (condition operator er short cut)
-*/
+
 
 let a = 10;
 let b = 8;
@@ -9,7 +9,7 @@ let t = a < b ? 'True' : 'False';
 
 console.log(t);
 
-
+*/
 
 
 
